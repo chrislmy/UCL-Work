@@ -1,0 +1,18 @@
+E-X[zy]							not a formula				2
+Ey-(X[yy]						not a formula				2
+EAzX[yz]						not a formula				2
+(X[xy]^X[yz]>X[xz])				not a formula				3
+(X[xy]>Az(-X[xz]^X{yz})))		not a formula				3
+AxAyEz(-X[y]>(X[xz]^X[zy]))		not a formula				3
+AxAyAz(X[xy]v(X[xz]-X[zy]))		not a formula				3
+EyAzX[yz]						an existential formula		2
+((X[xy]^X[yz])>X[xz])			a binary connective formula	2
+(X[xy]>Az(-X[xz]v-X[yz]))		a binary connective formula	2
+AxAy-X[xy]						a universal formula			2
+AxAyEz(-X[xy]>(X[xz]^X[zy]))	a universal formula			2
+AxAyAz(X[xy]v(X[xz]>-X[zy]))	a universal formula			2
+(X[xy]^X[yx])					a binary connective formula	2
+((X[xy]^X[yz])>-X[zx])			a binary connective formula	2
+Ey(X[xy]^X[yx])					an existential formula		2
+ExAz-X[zx]						an existential formula		2
+AxAy(X[xy]vX[yx])				a universal formula			2
